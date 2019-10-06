@@ -1,0 +1,61 @@
+.thumnail{
+    text-align: center;
+}
+
+.container{
+    border-radius: 15px;
+    text-align: center;
+    margin: 50px auto 0 auto ;
+    background:rgba(0,0,0,0);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);    
+}
+.Icons{    
+    text-align: left;
+    padding-bottom: 120px;
+}
+.Information{   
+    margin-top: 35px;
+    padding-left: 80px;
+}
+*{
+    font-family: 'Oxygen', sans-serif;
+    color: #FFFFFF;
+    
+}
+body{
+    background: rgb(13,210,233);
+    background: rgb(172,182,229);
+    background: linear-gradient(90deg, rgba(172,182,229,1) 0%,
+    rgba(116,235,213,1) 64%, rgba(0,211,255,1) 100%);
+}
+img{
+    border-radius: 45px;
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-bottom: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+h2,h3,p {  
+    padding-top: 10px;      
+    text-align: left;
+}
+h3{   
+    font-weight: bold;
+    font-size: 35px;
+    background: linear-gradient(to right, #e75757 0%, #eb7474 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 20px;
+}
+
+
+i{
+    padding-right:  30px;
+    font-size: 25px;    
+}
